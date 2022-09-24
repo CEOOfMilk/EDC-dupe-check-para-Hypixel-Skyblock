@@ -1,5 +1,4 @@
 # EDC-dupe-check-for-Hypixel-Skyblock
-EscamasDupeCheck is a Minecraft Forge Mod 1.8.9 for Hypixel Skyblock that adds a Dupe Checker to Skyblock
 
 ItemData:
 
