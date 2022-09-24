@@ -1,12 +1,12 @@
-# EDC-dupe-check-para-Hypixel-Skyblock
-EscamasDupeCheck es un Minecraft Forge Mod 1.8.9 para Hypixel Skyblock que agrega un Dupe Checker a Skyblock
+# EDC-dupe-check-for-Hypixel-Skyblock
+EscamasDupeCheck is a Minecraft Forge Mod 1.8.9 for Hypixel Skyblock that adds a Dupe Checker to Skyblock
 
 
-Lo que hace el mod:
+What the mod does:
 
-Mod EscamasDupeCheck hecho a Dupe para revisar tus ítems skyblock. es similar a skytils/sbe mod, hecho con algunas correcciones menores, como nbt copier. aunque SBE y Skytils son mejores de diferentes maneras, NBT es mejor en general para la verificación de duplicados, ya que skytils y la API de SBE carecen de calidad.
-Soporte de Skytils, api mejorada, tiempo de respuesta más rápido, GUI más limpia, 1.7.5 está aquí.
+EscamasDupeCheck made to Dupe to check your skyblock items. it's similar to skytils/sbe mod, made with some minor fixes, like nbt copier. although SBE and Skytils are better in different ways, NBT is better overall for duplicate checking as skytils and the SBE API lack quality.
+Skytils support, improved api, faster response time, cleaner GUI, 1.7.5 is here.
 
-¿Como funciona? Muchos jugadores han sido eliminados antes, ahora esto lo evitará. ¡No compre nada antes de realizar una verificación de duplicados!
-Teclas de atajo: (configurables en el menú de controles)
-[P] - Abrir GUI [O] - ¡Mostrar el UUID del artículo!
+How does it work? Many players have been eliminated before, now this will prevent it. Don't buy anything before doing a duplicate check!
+Shortcut keys: (configurable in the controls menu)
+[P] - Open GUI [O] - Show article UUID!
