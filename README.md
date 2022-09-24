@@ -1,4 +1,4 @@
-# EDC-dupe-check-for-Hypixel-Skyblock
+# Johnsdupecheck for HypixelSkyblock
 
 ItemData:
 
