@@ -1,12 +1,24 @@
 # EDC-dupe-check-for-Hypixel-Skyblock
 EscamasDupeCheck is a Minecraft Forge Mod 1.8.9 for Hypixel Skyblock that adds a Dupe Checker to Skyblock
 
+ItemData:
 
-What the mod does:
+is a 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
 
-EscamasDupeCheck made to Dupe to check your skyblock items. it's similar to skytils/sbe mod, made with some minor fixes, like nbt copier. although SBE and Skytils are better in different ways, NBT is better overall for duplicate checking as skytils and the SBE API lack quality.
-Skytils support, improved api, faster response time, cleaner GUI, 1.7.5 is here.
+What it does?
 
-How does it work? Many players have been eliminated before, now this will prevent it. Don't buy anything before doing a duplicate check!
-Shortcut keys: (configurable in the controls menu)
-[P] - Open GUI [O] - Show article UUID!
+This mod adds High-Value Dupe checker into your skyblock experience.
+
+![192048789-d2d7b757-efd2-4b4b-8a0e-25179e3bef5e](https://user-images.githubusercontent.com/82175974/192103344-4cc9efe8-28e8-4e82-9cda-8664597a6a6a.png)
+![192048806-51a3c98f-6354-4f28-976d-3f2eb645e9c1](https://user-images.githubusercontent.com/82175974/192103444-e14e0044-19ba-4f97-be7e-b2efbeadf3f1.png)
+it also show u the UUID of the item
+
+Update 2.1.3: Skytils Support, Better api, Faster response time, Cleaner GUI, 1.7.5 is here.
+
+Why is this useful?
+
+Many players have been wiped before, Now this will prevent it. Don't buy anything before Dupe-Checking it!
+
+Hotkeys: (Configurable in Controls Menu)
+
+P - Opens SmileCrystal Gui O - Shows you ITEMDATA
